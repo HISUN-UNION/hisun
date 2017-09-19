@@ -1368,9 +1368,7 @@
             <groupId>org.jfree</groupId>
             <artifactId>jfreechart</artifactId>
         </dependency>
-
     </dependencies>
-
     <!-- ========构建设置======== -->
     <!--插件管理-->
     <build>
